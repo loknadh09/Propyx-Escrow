@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Compilation output
+/dist
+
+# pnpm deploy output
+/bundle
+
+# Hardhat Build Artifacts
+/artifacts
+
+# Hardhat compilation (v2) support directory
+/cache
+
+# Typechain output
+/types
+
+# Hardhat coverage reports
+/coverage
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
